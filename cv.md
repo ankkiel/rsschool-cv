@@ -34,3 +34,11 @@ function alphabetPosition(text) {
 - [SpaceX](https://ankkiel.github.io/spacex/)
 - [mishka](https://ankkiel.github.io/mishka/)
 - [credit-card](https://ankkiel.github.io/credit-card/dist/)
+
+## Education
+- [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/ankkiel/responsive-web-design)
+- [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ankkiel/javascript-algorithms-and-data-structures)
+- [HTML Academy - Interactive courses](https://htmlacademy.ru/profile/id358421)
+
+## English
+English level A2 - Elementary
