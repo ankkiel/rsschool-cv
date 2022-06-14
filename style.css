@@ -95,3 +95,13 @@ h2 {
 .education__link {
     text-decoration: none;
 }
+
+.code__pre {
+    font-family: monospace;
+}
+
+.code__function {
+    position: relative;
+    right: 164px;
+    bottom: 22px;
+}
