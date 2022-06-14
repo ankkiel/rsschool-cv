@@ -58,3 +58,40 @@ body {
 a:hover {
     color: #f2c100;
 }
+
+.profile {
+    flex-basis: 33%;
+    margin: 0 20px;
+}
+
+.content {
+    flex-basis: 60%;
+    margin: 0 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #f2c100;
+}
+
+.cv-header__title {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+.contacts__list, .education__list  {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.contacts__item, .projects__item, .education__item {
+    margin-bottom: 5px;
+}
+
+.contacts__link, .education__link, .projects__link {
+    color: #000;
+}
+
+.education__link {
+    text-decoration: none;
+}
