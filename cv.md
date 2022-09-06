@@ -1,7 +1,7 @@
 # Anastasia Ermolova
 
 ## Contacts
-- **Discord:** @ankkiel#3020
+- **Discord:** @Anastasia Ermolova#3020
 - **E-mail:** [anastasia_ermolova@bk.ru](mailto:anastasia_ermolova@bk.ru)
 - **Github:**  [https://github.com/ankkiel](https://github.com/ankkiel)
 
